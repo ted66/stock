@@ -14,6 +14,6 @@ def lineNotifyMessage(token, msg):
 
 if __name__ == '__main__':
   message = '[LINE Notify] Hello World' # 要傳送的訊息內容
-  token = 'tBANJgwoW4quXQxfrSX9nWUWWs6CZoQOw0dqXnllZlR' # 權杖值
+  token = '2c2cjaTr4JYKSaKVAKgKnhjrC0ythohxPT4K3QPdPkX' # 權杖值
 
   lineNotifyMessage(token, message)
